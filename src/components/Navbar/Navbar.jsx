@@ -111,8 +111,8 @@ const Navbar = ({ handlePopup }) => {
                 onClick={handlePopup}
               />
               <div
-                className="bg-red-600 w-4 h-4 text-white rounded-full absolute top-[2px] right-[2px] flex items-center 
-                    justify-center pb-1"
+                className="bg-red-600 w-4 h-4 text-white rounded-full absolute top-[4px] right-[4px] flex items-center 
+                    justify-center sm:pb-1"
               >
                 <span>1</span>
               </div>
