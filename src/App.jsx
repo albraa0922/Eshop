@@ -4,7 +4,7 @@ import Hero from "./components/Hero/Hero";
 import Navbar from "./components/Navbar/Navbar";
 import Services from "./components/Services/Services";
 import headphone from "./assets/hero/headphone.png";
-import Products from "./components/Produscts/products";
+import Products from "./components/Produscts/Products";
 import smartwatch2 from "./assets/category/smartwatch2-removebg-preview.png";
 import Blogs from "./components/Blogs/Blogs";
 import Partners from "./components/Partners/Partners";
